@@ -32,7 +32,6 @@ The dataset "Kaggle_Salary.csv" is a modified version of the survey results pres
 
 ```
 "Kaggle_Salary.csv" 
-
 ```
 Description: 
 
@@ -53,9 +52,12 @@ In each stage of this project, a detailed description of the pros and cons of a 
 The jupyter notebooks includes:
 
 ```
-According to the Country Classification provided by the United Nation, WESP classifies all countries of the world into one of three broad categories: developed economies, economies in transition and developing economies. 
-The composition of these groupings is intended to reflect basic economic country conditions. 
-Several countries (in particular the economies in transition) have characteristics that could place them in more than one category. For purposes of analysis, the groupings have been made mutually exclusive. 
+According to the Country Classification provided by the United Nation, WESP classifies all countries 
+of the world into one of three broad categories: developed economies, economies in transition and 
+developing economies. The composition of these groupings is intended to reflect basic economic 
+country conditions. Several countries (in particular the economies in transition) have characteristics 
+that could place them in more than one category. 
+For purposes of analysis, the groupings have been made mutually exclusive. 
 Based on that information I divided the 58 countries into two groups DEVELOPED COUNTRIES and DEVELOPING COUNTRIES.
 
 ```
